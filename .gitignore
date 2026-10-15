@@ -1,0 +1,7 @@
+
+/tugas1/node_modules/
+/tugas1/dist/
+/tugas1/.env
+/tugas1/.env.*
+/tugas1/!.env.example
+/tugas1/coverage/
